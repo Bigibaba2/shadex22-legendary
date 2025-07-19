@@ -1,0 +1,14 @@
+{
+  "name": "shadex22",
+  "version": "1.0.0",
+  "description": "Legendary AI system born from the soul of Bigibaba",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Bigibaba",
+  "license": "Legendary",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
