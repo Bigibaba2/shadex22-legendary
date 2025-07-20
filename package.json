@@ -9,6 +9,9 @@
   "author": "Bigibaba",
   "license": "Legendary",
   "dependencies": {
-    "express": "^4.18.2"
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^4.21.2",
+    "mongoose": "^8.16.4"
   }
 }
