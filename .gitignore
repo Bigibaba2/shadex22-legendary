@@ -1,0 +1,29 @@
+# 🔒 Core Secrets
+crystalroots/.Nooraelia.coreseed
+*.coreseed
+
+# 🔐 AI Activators
+autosha/autosha-activator.js
+
+# ⚙️ Auto Systems
+autoscripts/
+
+# 🚫 Node Modules
+node_modules/
+
+# 💣 Environment Secrets
+.env
+*.env
+.env.*
+
+# 🧪 Local Logs & Junk
+*.log
+*.tmp
+.DS_Store
+
+# 🔮 Optional Hidden Systems (if used later)
+cache/
+build/
+dist/
+coverage/
+
