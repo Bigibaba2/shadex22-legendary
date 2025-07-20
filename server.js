@@ -1,6 +1,6 @@
 const connectDB = require('./config/db');
 require('dotenv').config();
-require('./autosha/index.js');
+require('./autosha/autosha.js');
 
 const express = require('express');
 const path = require('path');
